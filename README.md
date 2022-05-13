@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lmouuud ma full Name is Lariane Mohcene Mouad, and I'm a pythoneer
+- 👋 Hi, I’m @Lmouuud. My full Name is Lariane Mohcene Mouad, and I'm a pythoneer
 - 👀 I’m interested in AI, machine learning and dev
 - 🌱 I’m currently learning AI and Distributed Programming
 - 💞️ I’m looking to collaborate on AI Projects
