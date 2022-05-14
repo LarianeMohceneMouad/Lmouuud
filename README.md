@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lmouuud. My full Name is Lariane Mohcene Mouad, and I'm a pythoneer
-- 👀 I’m interested in AI, machine learning and dev
+- 👀 I’m interested in AI, ML, DEV, Distributed Systems and programming
 - 🌱 I’m currently learning AI and Distributed Programming
 - 💞️ I’m looking to collaborate on AI Projects
 - 📫 How to reach me ... email : mouad.lariane@univ-constantine2.dz
